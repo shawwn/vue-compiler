@@ -4,8 +4,7 @@
   "main": "lib",
   "scripts": {
     "watch": "babel src -d lib --watch",
-    "build": "babel src -d lib",
-    "postinstall": "npm run build"
+    "build": "babel src -d lib"
   },
   "author": "Jason <jason.daurus@gmail.com>",
   "license": "MIT",
