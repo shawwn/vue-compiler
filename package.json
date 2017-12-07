@@ -1,5 +1,5 @@
 {
-  "name": "vue-compiler",
+  "name": "shawwn-vue-compiler",
   "version": "3.0.0",
   "main": "lib",
   "scripts": {
